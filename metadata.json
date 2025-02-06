@@ -1,5 +1,21 @@
 {
-    "name": "Kudos Token",
-    "symbol": "KDS",
-    "uri": "https://raw.githubusercontent.com/Dcamy/kudos/main/metadata.json"
+  "name": "Kudos Token",
+  "symbol": "KDS",
+  "description": "The official Kudos token for the iChain project.",
+  "image": "https://raw.githubusercontent.com/Dcamy/kudos/main/kudos_logo.png",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "BCuFE1rqDGyrVwaa3WYXGJnxYyA7ibFPbn9w1a9Rk5v2",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Dcamy/kudos/main/kudos_logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
